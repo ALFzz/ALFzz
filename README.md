@@ -17,7 +17,7 @@
 
 ## 🛠️ Технологический стек
 **Основные навыки:**  
-<div style="display: flex; flex-direction: coloumn; flex-wrap: wrap;  gap: 25px;">
+<div style="display: flex; flex-direction: coloumn;  gap: 25px;">
   <div style="display: flex; flex-direction: coloumn; align-items: center; gap: 5px;">
     <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" alt="Vue.js">
     <span style="font-size: 12px; font-weight: 600;">Vue.js</span>
