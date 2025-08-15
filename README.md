@@ -1,9 +1,12 @@
 # 👋 Привет, я Фёдор
 ### Junior Frontend Developer (Vue)
 
-<div style="display: flex; gap: 15px;">
+<div style="display: flex; flex-direction: row; gap: 15px;">
   <a href="https://t.me/ALFzza">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">
+  </a>
+  <a href="mailto:qiranem@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40">
   </a>
   <a href="https://github.com/ALFzz">
     <img src="https://cdn.simpleicons.org/github/fff" width="40">
