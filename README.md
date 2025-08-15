@@ -5,9 +5,6 @@
   <a href="https://t.me/ALFzza">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">
   </a>
-  <a href="mailto:qiranem@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40">
-  </a>
   <a href="https://github.com/ALFzz">
     <img src="https://cdn.simpleicons.org/github/fff" width="40">
   </a>
