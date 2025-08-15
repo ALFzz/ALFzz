@@ -2,13 +2,13 @@
 ### Junior Frontend Developer (Vue)
 
 <div style="display: flex; gap: 15px;">
-  <a href="https://t.me/ALFzza" style="text-decoration: none">
+  <a href="https://t.me/ALFzza" style="text-decoration: none; border: none; outline: none; box-shadow: none;">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">
   </a>
-  <a href="mailto:qiranem@gmail.com" style="text-decoration: none">
+  <a href="mailto:qiranem@gmail.com" style="text-decoration: none; border: none; outline: none; box-shadow: none;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40">
   </a>
-  <a href="https://github.com/ALFzz" style="text-decoration: none">
+  <a href="https://github.com/ALFzz" style="text-decoration: none; border: none; outline: none; box-shadow: none;">
     <img src="https://cdn.simpleicons.org/github/fff" width="40">
   </a>
 </div>
