@@ -17,23 +17,11 @@
 
 ## 🛠️ Технологический стек
 **Основные навыки:**  
-<div style="display: flex; flex-direction: coloumn;  gap: 25px;">
-  <div style="display: flex; flex-direction: coloumn; align-items: center; gap: 5px;">
+<div style="display: flex; flex-direction: row;  gap: 25px;">
     <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="40" alt="Vue.js">
-    <span style="font-size: 12px; font-weight: 600;">Vue.js</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
     <img src="https://cdn.simpleicons.org/nuxt/00DC82" width="40" alt="Nuxt.js">
-    <span style="font-size: 12px; font-weight: 600;">Nuxt.js</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript">
-    <span style="font-size: 12px; font-weight: 600;">JavaScript</span>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 5px;">
     <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="Tailwind CSS">
-    <span style="font-size: 12px; font-weight: 600;">Tailwind</span>
-  </div>
 </div>
 
 **Дополнительно:**  
