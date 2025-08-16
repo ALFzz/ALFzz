@@ -38,6 +38,7 @@ Axios | REST API
 🔹 Реализовал:
 - Drag-and-drop элементы
 - Интеграцию с API
+- Локализацию на русском и английском
 
 
 ### [GrafRide](https://github.com/ALFzz/grafride) | [Демо на Netlify](https://iridescent-cat-0bc2ab.netlify.app)
