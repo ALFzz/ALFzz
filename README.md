@@ -33,7 +33,7 @@ Axios | REST API
 ---
 
 ## 🚀 Мои проекты
-### Airdynamics.Pro
+### Airdynamics.Pro ![Real Project](https://img.shields.io/badge/Real%20Case-%F0%9F%9A%80-green)
 Адаптивная CMS-панель для управления аудиогидами в музеях на Vue  
 🔹 Реализовал:
 - Drag-and-drop элементы
