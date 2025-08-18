@@ -1,7 +1,7 @@
 # 👋 Привет, я Фёдор
 ### Junior Frontend Developer (Vue)
 
-<p align="center">
+<p>
   <a href="https://t.me/ALFzza">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>
   </a>
