@@ -42,6 +42,8 @@ Axios | REST API
 - Оптимизированную подгрузку анимационных ресурсов
 
 ### [Вкусные моменты](https://github.com/ALFzz/grafride)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjkya3oycDRuOGE5ejR5enZuYWZ4NDg1dXJxMXN6cTdrMnBsdnNpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Wvt3OCJ9SozrTzLUA/giphy.gif" width="480" height="270"/>
+
 Адаптивное веб-приложение для хранения рецептов Vue + Vite + Firebase  
 - Систему регистрации/входа через FireBase
 - Функцию сохранения рецептов в избранное
