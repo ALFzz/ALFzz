@@ -1,9 +1,9 @@
 # 👋 Привет, я Фёдор
 ### Junior Frontend Developer (Vue)
 
-[<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>](https://t.me/ALFzza)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>](mailto:qiranem@gmail.com)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.simpleicons.org/github/000000" width="40" alt="GitHub"/>](https://github.com/ALFzz)
+[<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>](https://t.me/ALFzza)&nbsp;
+[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>](mailto:qiranem@gmail.com)&nbsp;
+[<img src="https://cdn.simpleicons.org/github/fff" width="40" alt="GitHub"/>](https://github.com/ALFzz)
 
 ---
 
@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 </div>
 
 **Дополнительно:**  
