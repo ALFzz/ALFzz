@@ -1,17 +1,9 @@
 # 👋 Привет, я Фёдор
 ### Junior Frontend Developer (Vue)
 
-<p>
-  <a href="https://t.me/ALFzza">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>
-  </a>
-  <a href="mailto:qiranem@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/ALFzz">
-    <img src="https://cdn.simpleicons.org/github/000000" width="40" alt="GitHub"/>
-  </a>
-</p>
+[<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>](https://t.me/ALFzza)
+[<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>](mailto:qiranem@gmail.com)
+[<img src="https://cdn.simpleicons.org/github/000000" width="40" alt="GitHub"/>](https://github.com/ALFzz)
 
 ---
 
