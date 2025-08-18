@@ -27,7 +27,7 @@ Axios | REST API
 ## 🚀 Мои проекты
 ### Airdynamics Pro  
 🟢 **Реальный коммерческий кейс**  
-[<img src="images/airdynamics_pro.png" width="480" height="270" alt="airdynamics_pro"/>]
+<img src="images/airdynamics_pro.png" width="480" height="270" alt="airdynamics_pro"/>
 
 Адаптивная CMS-панель для управления аудиогидами в музеях на Vue  
 - Drag-and-drop элементы  
