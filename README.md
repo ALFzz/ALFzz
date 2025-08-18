@@ -43,7 +43,7 @@ Axios | REST API
 
 
 ### [GrafRide](https://github.com/ALFzz/grafride) | [Демо на Netlify](https://iridescent-cat-0bc2ab.netlify.app)
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndsYnVrY3Z6Mnk2ZmJnbmN2NnN2b243azB5MjE2Y2pxMjFwMmdnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8DiDTJVUmaDmSBtN0/giphy.gif" width="100"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndsYnVrY3Z6Mnk2ZmJnbmN2NnN2b243azB5MjE2Y2pxMjFwMmdnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8DiDTJVUmaDmSBtN0/giphy.gif" width="480" height="270"/>
 Адаптивный лендинг с анимациями на Nuxt.js + v-motion  
 - Динамичные скролл анимации
 - Оптимизированную подгрузку анимационных ресурсов
