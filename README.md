@@ -32,8 +32,8 @@ Axios | REST API
 
 Адаптивная CMS-панель для управления аудиогидами в музеях на Vue  
 - Drag-and-drop элементы  
-- Интеграцию с API  
-- Локализацию на русском и английском  
+- Интеграция с API  
+- Локализация на русском и английском  
 
 
 ### [GrafRide](https://github.com/ALFzz/grafride) | [Демо на Netlify](https://iridescent-cat-0bc2ab.netlify.app)
@@ -41,14 +41,14 @@ Axios | REST API
 
 Адаптивный лендинг с анимациями на Nuxt.js + v-motion  
 - Динамичные скролл анимации
-- Оптимизированную подгрузку анимационных ресурсов
+- Оптимизированная подгрузка анимационных ресурсов
 
 ### [Вкусные моменты](https://github.com/ALFzz/grafride)
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjkya3oycDRuOGE5ejR5enZuYWZ4NDg1dXJxMXN6cTdrMnBsdnNpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Wvt3OCJ9SozrTzLUA/giphy.gif" width="480" height="270"/>
 
 Адаптивное веб-приложение для хранения рецептов Vue + Vite + Firebase  
-- Систему регистрации/входа через FireBase
-- Функцию сохранения рецептов в избранное
+- Система регистрации/входа через FireBase
+- Функция сохранения рецептов в избранное
 - Создание рецептов
 - Создание отзывов сайта и отзывов рецепта
 
