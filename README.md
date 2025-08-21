@@ -43,6 +43,15 @@ Axios | REST API
 - Динамичные скролл анимации
 - Оптимизированная подгрузка анимационных ресурсов
 
+
+### [Movido](https://github.com/ALFzz/Movido)
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHl3anBod2xnczd4M2dqcDNtZjI1c3RncWtpZ21xMzczdmZ4NnhoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SK0xBITSaxZwDAIHCC/giphy.gif" width="480" height="270"/>
+
+Адаптивная фильмотека на React и TypeScript 
+- Подключение БД PostgreSQL
+- Авторизация с возможностью добавить фильм в личном кабинете
+
+
 ### [Вкусные моменты](https://github.com/ALFzz/grafride)
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjkya3oycDRuOGE5ejR5enZuYWZ4NDg1dXJxMXN6cTdrMnBsdnNpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Wvt3OCJ9SozrTzLUA/giphy.gif" width="480" height="270"/>
 
