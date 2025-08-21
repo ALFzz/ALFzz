@@ -51,6 +51,7 @@ Axios | REST API
 Адаптивная фильмотека на React и TypeScript 
 - Подключение БД PostgreSQL
 - Авторизация с возможностью добавить фильм в личном кабинете
+- Использование Bootstrap элементов
 
 
 ### [Вкусные моменты](https://github.com/ALFzz/grafride)
