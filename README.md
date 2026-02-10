@@ -1,5 +1,5 @@
 # 👋 Привет, я Фёдор
-### Junior Fullstack разработчик (Vue / Node.js)
+### Frontend Разработчик
 
 [<img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" alt="Telegram"/>](https://t.me/ALFzza)&nbsp;
 [<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>](mailto:qiranem@gmail.com)&nbsp;
